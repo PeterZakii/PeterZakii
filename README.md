@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Peter 😊</h1>
 <h3 align="center">Electrical and mechatronics engineer with a strong background in software engineering, deep learning, and robotics. I've recently finished my masters degree in Electrical Engineering and Information Technology at TUM.</h3>
 
-- 👯 I’m looking to collaborate on **Software Engineering, Deep learning, and Reinforcement Learning, **
+- 👯 I’m looking to collaborate on **Software Engineering, Deep learning, and Reinforcement Learning**
 
 - 📫 How to reach me **peterzaki.e@gmail.com**
 
